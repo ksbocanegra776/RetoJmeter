@@ -1,0 +1,4 @@
+Karina,Bocanegra,1,Colombia,53,12548,21,3004658978,my address,616267,order.php?step=1,0
+jared,guetto,2,Colombia,53,12548,21,3007000158,My address,616267,order.php?step=1,0
+
+ 
